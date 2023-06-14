@@ -1,0 +1,38 @@
+{
+  "idToTestNameHash": {
+    "FrScTe1": "From Scratch Tests isUpperCase - returns true if there are no lowercase letter present",
+    "FrScTe2": "From Scratch Tests removeVowels - removes all vowels from each string in the array",
+    "FrScTe3": "From Scratch Tests wordCap - capitalizes the first character after the space if it is a letter, lowercases all else",
+    "FrScTe4": "From Scratch Tests swapCase - reverses the case of every letter in the string",
+    "FrScTe5": "From Scratch Tests staggeredCase - alternates between upper and lower case, skips non letter characters",
+    "FrScTe6": "From Scratch Tests wordLengths - prints the length of the string of characters before each space",
+    "FrScTe7": "From Scratch Tests searchWord - finds each match of the given word",
+    "FrScTe8": "From Scratch Tests processReleaseData - correctly filters and formats the film data"
+  },
+  "testNameToIdHash": {
+    "From Scratch Tests isUpperCase - returns true if there are no lowercase letter present": "FrScTe1",
+    "From Scratch Tests removeVowels - removes all vowels from each string in the array": "FrScTe2",
+    "From Scratch Tests wordCap - capitalizes the first character after the space if it is a letter, lowercases all else": "FrScTe3",
+    "From Scratch Tests swapCase - reverses the case of every letter in the string": "FrScTe4",
+    "From Scratch Tests staggeredCase - alternates between upper and lower case, skips non letter characters": "FrScTe5",
+    "From Scratch Tests wordLengths - prints the length of the string of characters before each space": "FrScTe6",
+    "From Scratch Tests searchWord - finds each match of the given word": "FrScTe7",
+    "From Scratch Tests processReleaseData - correctly filters and formats the film data": "FrScTe8"
+  },
+  "testScores": {
+    "From Scratch Tests": {
+      "FrScTe1": 0,
+      "FrScTe2": 0,
+      "FrScTe3": 0,
+      "FrScTe4": 0,
+      "FrScTe5": 0,
+      "FrScTe6": 0,
+      "FrScTe7": 0,
+      "FrScTe8": 0
+    }
+  },
+  "humanReadable": {
+    "From Scratch Tests": "0/8",
+    "finalTestScore": "FINAL SCORE: 0/8"
+  }
+}
